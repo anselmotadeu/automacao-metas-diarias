@@ -1,0 +1,12 @@
+{
+  "name": "automacaoCypress",
+  "version": "1.0.0",
+  "description": "automação dos processos criados do nosso app mobile",
+  "main": "index.js",
+  "repository": "https://github.com/anselmotadeu/automacao-metas-diarias",
+  "author": "Anselmo Santos",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.14.0"
+  }
+}
